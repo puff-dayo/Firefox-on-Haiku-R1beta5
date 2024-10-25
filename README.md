@@ -28,7 +28,7 @@ If you encounter errors, you can check the syslog to determine which library is 
 
 <br><br>
 
-**Step 2: Extract the Firefox compressed package**
+**Step 2: Extract the Firefox compressed file .tar.bz2**
 
 <br><br>
 
